@@ -6,7 +6,7 @@ Landing page that counts down from the current date to the next new year.
 
 ## Project Specifications
 
-- Landing styled with CSS3
+- Landing page styled with CSS3
 - Calculate the days, hours, mins and seconds to the new year
 - Insert values into the DOM
 - Show a spinner right before loading the countdown
